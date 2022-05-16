@@ -2,4 +2,20 @@
     max-width: 100%;
     height: auto;
     display: block;
+    margin: 0 auto;
 }
+
+#main {
+    text-align: center;
+}
+
+#tribute-info ul {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#tribute-info ul li {
+    text-align: left;
+    line-height: 1.8;
+}
+
